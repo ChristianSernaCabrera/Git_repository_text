@@ -1,1 +1,2 @@
-1 cambio sacarlo de la SA y modificarlo y posteriormente agregarlo nueva,ente al SA
+ cambio sacarlo de la SA y modificarlo y posteriormente agregarlo nueva,ente al SA
+2 Segundo cambio despues de clonar 
